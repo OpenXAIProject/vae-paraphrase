@@ -1,0 +1,22 @@
+{
+    "emb_size": 300,
+    "hidden" : 300,
+    "latent_dim" : 600,
+    "attention_dim" : 100,
+
+    "learning_rate" : 0.0001,
+    "step_size" : 50,
+    "beam_size" : 10,
+    
+    "annealing_pivot" : 20000,
+    "max_iteration" : 400000,
+
+    "train_path" : "train.pkl",
+    "test_path" : "test.pkl",
+    "pretrained_embedding_path" : "glove.6B.300d.txt",
+
+    "save_path" : "./save",
+
+    "max_data_size" : 3000000,
+    "batch_size" : 50
+}
