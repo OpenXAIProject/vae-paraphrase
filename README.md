@@ -16,5 +16,4 @@ Dataset is originally from [Quora Question Pairs](https://www.kaggle.com/c/quora
 + nltk
 
 ## License
-[Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
-
+Apache License 2.0
