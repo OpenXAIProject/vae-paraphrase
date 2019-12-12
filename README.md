@@ -1,5 +1,5 @@
 # vae-paraphrase
-Tensorflow implementation of "Deep Generative Framework for Paraphrase" [paper](https://arxiv.org/abs/1709.05074)
+Tensorflow implementation of [Deep Generative Framework for Paraphrase](https://arxiv.org/abs/1709.05074)
 
 
 ## Dataset
